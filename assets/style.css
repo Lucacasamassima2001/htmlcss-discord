@@ -316,6 +316,10 @@ i{
     padding-right: 10px;
 }
 
+i:hover{
+    cursor: pointer;
+}
+
 .credits{
     margin-top: 2em;
     width: calc(70% / 6);
