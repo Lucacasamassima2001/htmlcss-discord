@@ -72,6 +72,8 @@ header{
 a{
     color: white;
     text-decoration: none;
+    width: 80px;
+    height: 40px;
 }
 
 a:hover{
