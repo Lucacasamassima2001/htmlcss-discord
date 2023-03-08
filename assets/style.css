@@ -85,7 +85,7 @@ a:hover{
     background-image: url(../assets/img/jumbo.png);
     background-size: cover;
     width: 100%;
-    min-height: 300px;
+    min-height: 400px;
     display: flex;
     align-items:center;
     justify-content: center;
@@ -183,6 +183,7 @@ a:hover{
 
 
 .third-section{
+    background-color: lightgray;
     display: flex;
     justify-content: center;
     padding-top: 20em;
@@ -200,13 +201,25 @@ a:hover{
 /* <!-- BIG IMAGE SECTION --> */
 
 .fifth-section{
-    padding-top: 10em;
+    background-color: lightgray;
+    /* padding-top: 10em; */
     width: 100%;
     height: 1000px;
     display: flex;
     align-items:center;
     justify-content: center;
 }
+
+.wave{
+    display: block;
+    width: 100%;
+}
+
+.wave-bottom{
+    width: 100%;
+    transform: rotateX(180deg) rotateY(180deg);
+}
+
 
 
 .titolo2{
