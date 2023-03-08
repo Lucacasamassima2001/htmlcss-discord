@@ -359,8 +359,8 @@ i:hover{
 }
 
 .second-nav{
-    border-top:  solid 2px violet;
-    width: 90%;
+    border-top:  solid 2px rgba(73,85,126,255);
+    width: 70%;
     height: 60px;
     display: flex;
     align-items: center;
@@ -385,6 +385,3 @@ i:hover{
 .registrati-button:hover{
     cursor: pointer;
 }
-
-
-
